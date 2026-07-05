@@ -213,6 +213,6 @@ This project demonstrates practical skills in data analytics, SQL, data visualiz
 
 # Author
 
-Miss. Poorva Dhananjay Chavan
+Miss. Poorva Dhananjay Chavan.
 
 
