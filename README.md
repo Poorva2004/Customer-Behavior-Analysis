@@ -113,6 +113,8 @@ Example:
 # Power BI Dashboard
 
 The Power BI dashboard provides an interactive view of the analyzed data.
+<img width="1332" height="747" alt="image" src="https://github.com/user-attachments/assets/2331f0b2-a548-41fe-b22a-bfb5ca948adc" />
+
 
 ## Dashboard Features
 
